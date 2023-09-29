@@ -1,5 +1,5 @@
 # Recommendations
 ## Recommendations
-* ## Kelly Boyle
-* ## Dan Howe
-* ## Cynthia Larkin
+* Kelly Boyle
+* Dan Howe
+* Cynthia Larkin
